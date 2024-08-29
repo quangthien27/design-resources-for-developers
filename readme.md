@@ -1290,6 +1290,7 @@
 | [Jpeg.io](https://www.jpeg.io) | Convert any major image format into a highly optimized JPEG |
 | [CompressImage.io](https://compressimage.io) | Compress JPG and PNG images. No Limits. Bulk Conversion. Convert to WebP. Works Offline |
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
+| [Images Converter](https://iotools.cloud/tool/image-converter/) | free image converter tool with compression option. It supports JPEG, PNG, AVIF, TIFF, SVG, JPG, WEBP and GIF. |
 
 
 <div align="right">
